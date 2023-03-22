@@ -1,2 +1,2 @@
 # gcf-test
-GCF Testing
+Google Cloud Function Testing via Webhooks
